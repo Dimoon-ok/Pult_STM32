@@ -1,0 +1,15 @@
+*.*
+!*.gitignore
+!*.SchDoc
+!*.PcbDoc
+!*.PrjPcb
+!*.PrjPcbStructure
+!*.PCBDwf
+!*.SchLib
+!*.PcbLib
+!*.IntLib
+!*.ioc
+!*.pdf
+!*.xlsx
+!*.xls
+
